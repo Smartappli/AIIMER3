@@ -1,1 +1,1 @@
-# AIIMER3
+# Artificial Intelligence in Medical Research
